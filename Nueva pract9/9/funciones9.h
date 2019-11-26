@@ -1,4 +1,7 @@
+#include <stdio.h>
+
 #ifndef FUNCIONES9_H
+#define FUNCIONES9_H
 
 typedef struct evaluacion
 {
